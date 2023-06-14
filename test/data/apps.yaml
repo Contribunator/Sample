@@ -1,0 +1,20 @@
+- date: 2023-06-14
+  title: Test App
+  description: Test Description
+  image: ./images/230614-1235-test-app.png
+  type: interoperability
+  author: Author name
+  authorLink: https://test.com/author
+  verifiedContract: https://test.com/contract
+  openSource: https://test.com/source
+  audit: https://test.com/audit
+  testSuite: https://test.com/tests
+  ipfsFrontend: https://test.com/ipfs
+  links:
+    - title: Launch App
+      link: https://test.com/url
+    - name: Github
+      link: https://github.com
+      icon: github
+    - name: Twitter
+      link: https://twitter.com
